@@ -1,6 +1,6 @@
 <x-app-layout title="Upload File">
     <x-slot name="heading">
-        Orders
+        Orders Barang
     </x-slot>
 
     <form class="max-w-sm mx-auto" method="post" enctype="multipart/form-data" action="/checkout">
